@@ -6,13 +6,13 @@
 
 ### What is Nanonji?
 
-# 🌶️ 🔥
+🌶️ 🔥
 
 ### What is your Roadmap?
 
 * # 🚀
 * # 🌝
-* 🏎️
+* # 🏎️
 * # 🌎☮
 
 ### What is your Website?
