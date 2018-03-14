@@ -15,14 +15,6 @@
 * 🏎️
 * 🌎☮
 
-### What is your Website?
-
-http://www.🚀🤑.WS
-
-### Who created Nanoji Currency?
-
-Nanoji Nakamoticon
-
 ### Why?
 
 🌎☮
@@ -30,3 +22,11 @@ Nanoji Nakamoticon
 ### How?
 
 🚀🤑
+
+### What is your Website?
+
+http://www.🚀🤑.WS
+
+### Who created Nanoji Currency?
+
+Nanoji Nakamoticon
