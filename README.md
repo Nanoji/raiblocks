@@ -4,29 +4,33 @@
 </div>
 <hr />
 
-### What is Nanoji?
+### What is Nanoji❓
 
 🌶️ 🔥
 
-### What is your Roadmap?
+### What is your 🗺️❓
 
 * 🚀
 * 🌙
 * 🏎️
 * 🌎☮
 
-### Why?
+### Why❓
 
 🌎☮
 
-### How?
+### How❓
 
 🚀🤑
 
-### What is your Website?
+### When❓
+
+🔜™️
+
+### What is your 🌐❓
 
 http://www.🚀🤑.WS
 
-### Who created Nanoji Currency?
+### Who created Nanoji 💸❓
 
 Nanoji Nakamoticon
