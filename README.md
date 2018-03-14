@@ -1,6 +1,6 @@
 <hr />
 <div align="center">
-    <img src="images/logo.png" alt="Logo" width='300px' height='auto'/>
+    <img src="images/nanoji-logo.png" alt="Logo" width='auto' height='150px' style="padding-top:10px;padding-bottom:10px;" />
 </div>
 <hr />
 
