@@ -4,7 +4,7 @@
 </div>
 <hr />
 
-### What is Nanonji?
+### What is Nanoji?
 
 🌶️ 🔥
 
